@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 
 
 <br />
+<p float="left">
 <img src="https://user-images.githubusercontent.com/65785786/109551534-b1e43a80-7af6-11eb-93f4-2276f90d4ea3.gif" width="300" height="600" />
-
+<img src="https://user-images.githubusercontent.com/65785786/109552487-d5f44b80-7af7-11eb-8ae3-1615f59c4cb8.gif" width="300" height="600"/>
+</p>
