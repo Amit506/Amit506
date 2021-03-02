@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <br />
 <p float="left">
 <img src="https://drive.google.com/uc?export=view&id=16w2ANX9i8XE-vrJwC0MptnkWcevnq-8X" width="300" height="600" />
+   <br />
 <img src="https://user-images.githubusercontent.com/65785786/109552487-d5f44b80-7af7-11eb-8ae3-1615f59c4cb8.gif" width="300" height="600"/>
 <img src="https://user-images.githubusercontent.com/65785786/109553642-46e83300-7af9-11eb-8586-50294b06dc73.gif" width="300" height="600" />
 <img src="https://drive.google.com/uc?export=view&id=16uOxo7fLt7TPSGC8Mhqa-dsnMeXoVBUS" width="300" height="600" />
-  
   
 </p>
