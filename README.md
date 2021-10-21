@@ -12,12 +12,10 @@
 
 🌱 I’m currently learning android and flutter
 
-## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:amitkumar50608@gmail.com)](asthiseta@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/awwit_k/)
 
+### Connect with me 
 
-<!-- <a href="https://twitter.com/awwit_k">
+<a href="https://twitter.com/awwit_k">
   <img align="left" alt="Amit Kumar| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://stackoverflow.com/users/14557669/amit-kumarl">
@@ -38,5 +36,5 @@
 <p float="right">
 <img src="https://user-images.githubusercontent.com/65785786/109553642-46e83300-7af9-11eb-8586-50294b06dc73.gif" width="300" height="600" />
 <img src="https://drive.google.com/uc?export=view&id=16uOxo7fLt7TPSGC8Mhqa-dsnMeXoVBUS" width="300" height="600" />
-</p> -->
+</p>
 
