@@ -17,22 +17,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/awwit_k/)
 
 
-
-------
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Connect with me 
-
 <!-- <a href="https://twitter.com/awwit_k">
   <img align="left" alt="Amit Kumar| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -55,3 +39,4 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/65785786/109553642-46e83300-7af9-11eb-8586-50294b06dc73.gif" width="300" height="600" />
 <img src="https://drive.google.com/uc?export=view&id=16uOxo7fLt7TPSGC8Mhqa-dsnMeXoVBUS" width="300" height="600" />
 </p> -->
+
