@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 👋 Hi there! I'm Amit, a software developer. I'm passionate about coding and eager to learn and grow in the world of technology. My skills include proficiency in programming languages like Dart, Python and Java, as well as a keen interest in web development and mobile app development using technologies like HTML/CSS, JavaScript, and Flutter. Let's connect and collaborate on exciting projects together! 😄🚀
+### I'm Amit, a software developer. I'm passionate about coding and eager to learn and grow in the world of technology. 😄🚀
 
 
 ## By the way here are some of my statistics 🚀
