@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Amit Kumar 👋</h1>
-<h3 align="center">Software Developer | Passionate about Backend Technologies & Flutter 📱</h3>
+<h3 align="center">Software Developer | Passionate about New Technologies 📱</h3>
 
 <p align="center">
   I'm a passionate software developer eager to learn and grow in the world of technology. I enjoy building applications and solving problems through code.
