@@ -30,12 +30,10 @@ Here are some of my highlighted repositories:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit506&show_icons=true&theme=tokyonight" alt="Amit506's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit506&theme=tokyonight" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit506&theme=tokyonight&layout=compact" alt="Top Languages" />
 </div>
 
 ---
