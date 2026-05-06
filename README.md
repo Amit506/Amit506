@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently diving deep into **Java** **Python** and **Flutter** development.
+- 🌱 I’m currently diving deep into **Java**,**Python** and **Flutter** system.
 - 💻 Exploring concepts in **System Design** and **Mobile App Architecture**.
 - 🤝 Always open to learning new technologies and collaborating on exciting projects.
 
