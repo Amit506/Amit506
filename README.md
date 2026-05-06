@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Amit Kumar 👋</h1>
-<h3 align="center">Software Developer | Passionate about Android & Flutter 📱</h3>
+<h3 align="center">Software Developer | Passionate about Backend Technologies & Flutter 📱</h3>
 
 <p align="center">
   I'm a passionate software developer eager to learn and grow in the world of technology. I enjoy building applications and solving problems through code.
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently diving deep into **Android** and **Flutter** development.
+- 🌱 I’m currently diving deep into **Java** **Python** and **Flutter** development.
 - 💻 Exploring concepts in **System Design** and **Mobile App Architecture**.
 - 🤝 Always open to learning new technologies and collaborating on exciting projects.
 
